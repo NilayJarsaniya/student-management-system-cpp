@@ -24,4 +24,4 @@ A console-based application to manage student records using file handling in C++
 - students.dat (stores records)
 
 ## 👨‍💻 Author
-Your Name
+Nilay Jarsaniya
